@@ -1,4 +1,12 @@
-### Hi there 👋
+![banner](assets/banner.jpg "banner")
+
+### Hi there 
+My name is a student who is a software development major and is now in winnib, Canada. The content of my main learning is the htmleffect cssnetwork, the jswise and the c # and .net. I will keep studying and hope to find a software development job in Canada in the future.
+
+### About me
+Winnipeg is really cold, usually in addition to class, most of the time will stay at home to surf the Internet, such as homework, watching videos, playing games, etc. The most important thing I do when I go out is to go to the supermarket to buy food, because I have to cook by myself, but I'm a beginner in cooking and I'm still learning.
+
+
 
 <!--
 **YiFan-Jiao/YiFan-Jiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
